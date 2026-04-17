@@ -13,17 +13,6 @@
       </PolyStyle>
     </Style>
 
-    <Style id="point">
-      <IconStyle>
-        <color>ff0011ff</color>
-        <scale>0</scale>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-
-
     <Placemark>
       <name>LOTE_III</name>
       <styleUrl>#poly</styleUrl>
@@ -54,13 +43,6 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-    </Placemark>
-
-    <Placemark>
-      <name>LOTE_III</name>
-      <Point>
-        <coordinates>-81.150,-4.78,0</coordinates>
-      </Point>
     </Placemark>
 
   </Document>
