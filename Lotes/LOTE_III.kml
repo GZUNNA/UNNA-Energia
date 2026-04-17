@@ -15,11 +15,11 @@
 
     <Style id="point">
       <IconStyle>
-        <color>ff0000ff</color>
+        <color>ff0011ff</color>
         <scale>0</scale>
       </IconStyle>
       <LabelStyle>
-        <scale>0</scale>
+        <scale>1</scale>
       </LabelStyle>
     </Style>
 
