@@ -16,10 +16,10 @@
     <Style id="point">
       <IconStyle>
         <color>ff0000ff</color>
-        <scale>1.2</scale>
+        <scale>0</scale>
       </IconStyle>
       <LabelStyle>
-        <scale>5</scale>
+        <scale>0</scale>
       </LabelStyle>
     </Style>
 
@@ -57,7 +57,7 @@
     </Placemark>
 
     <Placemark>
-      <name>Centro LOTE_III</name>
+      <name>LOTE_III</name>
       <styleUrl>#point</styleUrl>
       <Point>
         <coordinates>-81.150,-4.78,0</coordinates>
