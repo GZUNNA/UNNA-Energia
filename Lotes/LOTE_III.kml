@@ -58,7 +58,6 @@
 
     <Placemark>
       <name>LOTE_III</name>
-      <styleUrl>#point</styleUrl>
       <Point>
         <coordinates>-81.150,-4.78,0</coordinates>
       </Point>
