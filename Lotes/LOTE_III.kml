@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LOTE_III</name>
+
+    <Style id="poly">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+
+    <Placemark>
+      <name>LOTE_III</name>
+      <styleUrl>#poly</styleUrl>
+
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -81.059861389,-4.860743611,0
+              -81.140788889,-4.909307222,0
+              -81.224687222,-4.8006275,0
+              -81.210671944,-4.800631944,0
+              -81.210649722,-4.727836389,0
+              -81.239673056,-4.727826944,0
+              -81.239663056,-4.698708889,0
+              -81.181618611,-4.698726389,0
+              -81.181611111,-4.669608056,0
+              -81.15259,-4.669615,0
+              -81.152583889,-4.640496667,0
+              -81.109054167,-4.640504722,0
+              -81.109058056,-4.665959444,0
+              -81.0802575,-4.665963333,0
+              -81.080273056,-4.798068611,0
+              -81.065759722,-4.79807,0
+              -81.065763889,-4.841747778,0
+              -81.059861389,-4.860743611,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+  </Document>
+</kml>
